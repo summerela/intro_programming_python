@@ -1,2 +1,2 @@
-# intro_programming_python
-Lecture Material for UW Intro to Programming with Python Course
+# IT FDN 100 B: Foundations Of Programming: Python
+Lecture Material for UW Course "Intro to Programming with Python"
