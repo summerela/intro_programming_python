@@ -2,7 +2,7 @@
 ## [How the Course Works](https://github.com/summerela/intro_programming_python/blob/master/Module1/1%20Course%20Overview.ipynb)
 
 
-## [Why Learn Unix and Python?](https://github.com/summerela/intro_programming_python/blob/master/Module1/2%20Why%20Unix%20and%20Python%3F%20.ipynb)
+## [Why Learn Unix and Python?](https://github.com/summerela/intro_programming_python/blob/master/Module1/2_why_learn_unix_python.md)
 
 ## [Installing Stuff](https://github.com/summerela/intro_programming_python/blob/master/Module1/3%20Installing%20Stuff.ipynb)
 
