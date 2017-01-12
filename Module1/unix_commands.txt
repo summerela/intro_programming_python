@@ -1,7 +1,4 @@
-We provide you an easy interface to Linux operating system CentOS 7 where you can play with all the Linux commands with root privilege. Linux is a variant of Unix liked operating systems.                   
-                                                                                                       
-Following is a list of few important Linux/Unix commands.                                              
-                                                                                                       
+Following is a list of few important Linux/Unix commands:                                                                                                    
 cat -- Display File Contents                                                                           
 cd -- Changes Directory to dirname                                                                     
 chgrp --  Change file group                                                                            
