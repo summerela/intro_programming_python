@@ -1,12 +1,12 @@
 # Module 1
-## [How the Course Works](https://github.com/summerela/intro_programming_python/blob/master/Module1/1%20Course%20Overview.ipynb)
+## [How the Course Works](https://github.com/summerela/intro_programming_python/blob/master/Module1/1_course_overview.ipynb)
 
 
 ## [Why Learn Unix and Python?](https://github.com/summerela/intro_programming_python/blob/master/Module1/2_why_learn_unix_python.md)
 
-## [Installing Stuff](https://github.com/summerela/intro_programming_python/blob/master/Module1/3%20Installing%20Stuff.ipynb)
+## [Installing Stuff](https://github.com/summerela/intro_programming_python/blob/master/Module1/3_installing_stuff.md)
 
-## [Unix Basics](https://github.com/summerela/intro_programming_python/blob/master/Module1/4%20Unix%20Basics.ipynb)
+## [Unix Basics](https://github.com/summerela/intro_programming_python/blob/master/Module1/4_unix_basics.ipynb)
 
 ## Programming Basics
 ### Variables
