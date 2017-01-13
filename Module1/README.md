@@ -7,11 +7,13 @@
 
 ## [Unix Basics](https://github.com/summerela/intro_programming_python/blob/master/Module1/4_unix_basics.ipynb)
 
+## [Module1 Lab1: Unix Basics](https://github.com/summerela/intro_programming_python/blob/master/Module1/Lab1_unix.ipynb)
+
 ## [Running Python](https://github.com/summerela/intro_programming_python/blob/master/Module1/5_Running_Python.ipynb)
 
 ## [Programming Basics](https://github.com/summerela/intro_programming_python/blob/master/Module1/6_Programming_Basics.ipynb)
 
-## [Module1 Lab: Creating and running a python script](https://github.com/summerela/intro_programming_python/blob/master/Module1/madlib.zip)
+## [Module1 Lab2: Creating and running a python script](https://github.com/summerela/intro_programming_python/blob/master/Module1/madlib.zip)
 Browse to the github webpage above, and then click on "Download" to download the lab. 
 
 ## How to Troubleshoot
