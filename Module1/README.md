@@ -16,9 +16,6 @@
 ## [Module1 Lab2: Creating and running a python script](https://github.com/summerela/intro_programming_python/blob/master/Module1/madlib.zip)
 Browse to the github webpage above, and then click on "Download" to download the lab. 
 
-## How to Troubleshoot
-### Print statements
-### Simplify Each Piece
-### StackExchange and Google
+## [How to Troubleshoot](https://github.com/summerela/intro_programming_python/blob/master/Module1/7_Troubleshooting.ipynb)
 
 ## [Homework](https://canvas.uw.edu/courses/1105303/assignments/3464475?module_item_id=7076570)
