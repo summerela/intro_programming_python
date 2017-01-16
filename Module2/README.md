@@ -1,11 +1,8 @@
 # Module 2
 ## Review Assignment 1
 ## Python Data Constructs
-### Declaring Constants and Variables
-###  Assigning Values
-### Line Continuation Characters
 
-## Module 2: String Lab
+## Module 2: Formatting Lab
 
 ## Operations
 ### Concatenation
