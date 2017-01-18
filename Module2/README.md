@@ -37,7 +37,7 @@ Use string concatenation and user input to write a script that does the followin
 0. Write some code that takes the three question answers and `print`s the answers in the following format:
 
 ```bash
-$ python module2_lab2.py
+$ python3 module2_lab2.py
 answer1 | answer2 | answer3
 ```
 
