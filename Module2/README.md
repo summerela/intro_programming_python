@@ -21,7 +21,7 @@ it should output the following table:
 $ python3 module2_lab1.py
 |Greg         |Corradini    |Minneapolis  |75432        |
 |Summer       |Rae          |Seattle      |98110        |
-``
+```
 
 ## Operations
 ### Concatenation
