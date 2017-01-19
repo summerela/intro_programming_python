@@ -4,23 +4,41 @@
 
 ## Module 2: Formatting Lab
 
-Download and try to run the script `module2_lab1.py`. Note that it doesn't run correctly:
+Someone quit their job after writing a broken script and we have to fix it to output data properly.
+
+0. Download and try to run the script `module2_lab1.py`. Note that it doesn't run correctly:
 
 ```bash
 $ python3 module2_lab1.py
-  File "module2_lab1.py", line 4
-    this nested list represents
-              ^
+  File "module2_lab1.py", line 8
+    a table of rows where the first row
+          ^
 SyntaxError: invalid syntax
 ```
 
-Fix the bad comments sections that you can find. Rerun the script to see if you fixed it. When it runs it correctly
-it should output the following table:
+0. Find and fix the 3 bad comment sections. Rerun the script when you feel like the problem is solved.
+When it runs successfully you'll see output like this:
 
 ```bash
 $ python3 module2_lab1.py
+FirstName|LastName|City|Zipcode
+Greg|Corradini|Minneapolis|75432
+Summer|Rae|Seattle|98103
+```
+
+0. Unfortunately, this script is supposed to output a slightly nice formatted table structure. How might you modify the
+last part of the script to produce output that looks sorta like one of the options below?
+
+```bash
+|FirstName    |LastName    |City    |Zipcode    |
+|Greg    |Corradini    |Minneapolis    |75432    |
+|Summer    |Rae    |Seattle    |98103    |
+```
+
+```bash
+|FirstName    |LastName     |City         |Zipcode      |
 |Greg         |Corradini    |Minneapolis  |75432        |
-|Summer       |Rae          |Seattle      |98110        |
+|Summer       |Rae          |Seattle      |98103        |
 ```
 
 ## Operations
@@ -40,6 +58,8 @@ Use string concatenation and user input to write a script that does the followin
 $ python3 module2_lab2.py
 answer1 | answer2 | answer3
 ```
+
+0. Is there a way to do this without string concatenation? Hint, look into the string function `join`
 
 ## String formatting in python
 

@@ -1,34 +1,37 @@
 # -*- coding: utf-8 -*-
 #!/usr/bin/env python3
 
-this nested list represents
+header = ['FirstName', 'LastName', 'City', 'Zipcode']
+row1 = ['Greg', 'Corradini', 'Minneapolis', '75432']
+row2 = ['Summer', 'Rae', 'Seattle', '98103']
+# this nested list `table` represents
 a table of rows where the first row
-is the column headers
+# is the column headers
 table = [
-    ['FirstName', 'LastName', 'City', 'Zipcode'],
-    ['Greg', 'Corradini', 'Minneapolis', '75432'],
-    ['Summer', 'Rae', 'Seattle', '98103'],
+    header,
+    row1,
+    row2,
 ]
 
-calculate the max width
+calculate the max width of the table cell
 padding = 2
 max_width = 0
 for row in table:
     new_max = max([len(value) for value in row]) + padding
-    only set thew new max if it's actually greater
+    # only set thew new max if it's actually greater
     if new_max > max_width:
         max_width = new_max
 
-render the table to stdout console with print
-header = table[0]
-only loop through the rows, skip the header
-for row in table[1:]:
-    # zip takes two lists and interleaves them. Example:
-    # list1 = ['a','b','c']
-    # list2 = [1,2,3]
-    # zipped = zip(list1,list2)
-    # print( zipped )
-    # [('a',1),('b',2),('c',3)]
-    record = dict(zip(header,row))
-    record.update({'width': max_width})
-    print("|{FirstName:<{width}}|{LastName:<{width}}|{City:<{width}}|{Zipcode:<{width}}|".format( **record ))
+
+print out each row of the table
+for row in table:
+    cell1, cell2, cell3, cell4 = row
+
+    # TODO: use the print() function and string formatting to create output that looks sorta/kinda/similar ( but not identical ) to a table
+    #
+    # |FirstName    |LastName    |City    |Zipcode    |
+    # |Greg    |Corradini    |Minneapolis    |75432    |
+    # |Summer    |Rae    |Seattle    |98103    |
+    #
+    # WRITE YOUR CODE BELOW:
+    print(cell1,cell2,cell3,cell4, sep='|')
