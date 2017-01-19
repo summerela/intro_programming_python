@@ -29,17 +29,17 @@ When it runs successfully you'll see output like this:
 0. Unfortunately, this script is supposed to output a slightly nice formatted table structure. How might you modify the
 last part of the script to produce output that looks sorta like one of the options below?
 
-```bash
-|FirstName    |LastName    |City    |Zipcode    |
-|Greg    |Corradini    |Minneapolis    |75432    |
-|Summer    |Rae    |Seattle    |98103    |
-```
+    ```bash
+    |FirstName    |LastName    |City    |Zipcode    |
+    |Greg    |Corradini    |Minneapolis    |75432    |
+    |Summer    |Rae    |Seattle    |98103    |
+    ```
 
-```bash
-|FirstName    |LastName     |City         |Zipcode      |
-|Greg         |Corradini    |Minneapolis  |75432        |
-|Summer       |Rae          |Seattle      |98103        |
-```
+    ```bash
+    |FirstName    |LastName     |City         |Zipcode      |
+    |Greg         |Corradini    |Minneapolis  |75432        |
+    |Summer       |Rae          |Seattle      |98103        |
+    ```
 
 ## Operations
 ### Concatenation
