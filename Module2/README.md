@@ -49,7 +49,7 @@ Use string concatenation and user input to write a script that does the followin
 
 0. Create a script called `module2_lab2.py`
 0. Write some code that asks the user three arbitrary questions
-0. Write some code that takes the three question answers and `print`s the answers in the following format:
+0. Write some code that takes the three question answers and `print`s the answers using `string.format` in the following style:
 
     ```bash
     $ python3 module2_lab2.py
