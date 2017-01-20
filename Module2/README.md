@@ -1,6 +1,6 @@
 # Module 2
-## Review Assignment 1
-## Python Data Constructs
+## [Review Assignment 1](https://canvas.uw.edu/courses/1105303/assignments/3464475)
+## [Python Data Constructs](https://github.com/summerela/intro_programming_python/blob/master/Module2/2_python_data_contsructs.ipynb)
 
 ## Module 2: Formatting Lab
 
@@ -41,10 +41,7 @@ last part of the script to produce output that looks sorta like one of the optio
     |Summer       |Rae          |Seattle      |98103        |
     ```
 
-## Operations
-### Concatenation
-### User Input
-### Operators
+## [Operations](https://github.com/summerela/intro_programming_python/blob/master/Module2/3_Operations.ipynb)
 
 ## Module 2: Operations Lab
 
@@ -61,6 +58,6 @@ Use string concatenation and user input to write a script that does the followin
 
 0. Is there a way to do this without string concatenation? Hint, look into the string function `join`
 
-## String formatting in python
+## [String formatting in python](https://github.com/summerela/intro_programming_python/blob/master/Module2/4_String_Formatting.ipynb)
 
-## Module 2 Homework
+## [Module 2 Homework](https://canvas.uw.edu/courses/1105303/assignments/3464476)
