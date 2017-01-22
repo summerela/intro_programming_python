@@ -2,7 +2,7 @@
 
 ## [Review HW 2](https://canvas.uw.edu/courses/1105303/assignments/3464476) 
 
-## Data Type Conversion (10 mins)
+## [Data Type Conversion and Augmented Expressions](https://github.com/summerela/intro_programming_python/blob/master/Module3/1_data_type_conversions.ipynb) 
 
 ## Functions (30 mins)
 
