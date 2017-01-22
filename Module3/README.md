@@ -8,7 +8,7 @@
 
 ## Conditional Operations (15 mins)
 
-## [Module3 Lab1 -- Functions and Conditionals](Lab1.md)
+## [Module3 Lab1 -- Functions and Conditionals](./Lab1.md)
 
 ## Lists (30 mins)
 
