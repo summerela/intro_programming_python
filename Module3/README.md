@@ -8,13 +8,13 @@
 
 ## Conditional Operations (15 mins)
 
-## [Module3 Lab1 -- Functions and Conditionals](./Lab1.md)
+## [Module3 Lab1 -- Functions and Conditionals](Lab1.md)
 
 ## Lists (30 mins)
 
 ## For loops (15 mins)
 
-## Module 3: Lab 2 (20 mins)
+## [Module3 Lab2 -- Loops and Lists](Lab2.md)
 
 ## While Loops (15 minutes)
 
