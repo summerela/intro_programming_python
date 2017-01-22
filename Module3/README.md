@@ -1,6 +1,6 @@
 # Module 3
 
-## Review HW 2 (15 mins)
+## [Review HW 2](https://canvas.uw.edu/courses/1105303/assignments/3464476) 
 
 ## Data Type Conversion (10 mins)
 
