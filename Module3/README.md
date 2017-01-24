@@ -4,7 +4,7 @@
 
 ## [Data Type Conversion and Augmented Expressions](https://github.com/summerela/intro_programming_python/blob/master/Module3/1_data_type_conversions.ipynb) 
 
-## Functions (30 mins)
+## [Functions](https://github.com/summerela/intro_programming_python/blob/master/Module3/2_Functions.ipynb)
 
 ## Conditional Operations (15 mins)
 
