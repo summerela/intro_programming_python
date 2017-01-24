@@ -16,6 +16,4 @@
 
 ## [Module3 Lab2 -- Loops and Lists](Lab2.md)
 
-## While Loops (15 minutes)
-
 ## Homework 3 (5 minuts)
