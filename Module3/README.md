@@ -6,6 +6,8 @@
 
 ## [Functions](https://github.com/summerela/intro_programming_python/blob/master/Module3/2_Functions.ipynb)
 
+## Booleans and Blocks
+
 ## Conditional Operations (15 mins)
 
 ## [Module3 Lab1 -- Functions and Conditionals](Lab1.md)
@@ -16,4 +18,4 @@
 
 ## [Module3 Lab2 -- Loops and Lists](Lab2.md)
 
-## Homework 3 (5 minuts)
+## Homework 3 (5 minutes)
