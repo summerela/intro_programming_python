@@ -10,7 +10,7 @@
 
 ## [Module3 Lab1 -- Functions and Conditionals](Lab1.md)
 
-## Lists (30 mins)
+## [Lists](https://github.com/summerela/intro_programming_python/blob/master/Module3/4_Lists.ipynb)
 
 ## For loops (15 mins)
 
