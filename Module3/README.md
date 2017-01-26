@@ -6,9 +6,7 @@
 
 ## [Functions](https://github.com/summerela/intro_programming_python/blob/master/Module3/2_Functions.ipynb)
 
-## Booleans and Blocks
-
-## Conditional Operations (15 mins)
+## [Conditional Operations](https://github.com/summerela/intro_programming_python/blob/master/Module3/3_Conditionals.ipynb)
 
 ## [Module3 Lab1 -- Functions and Conditionals](Lab1.md)
 
