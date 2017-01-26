@@ -16,4 +16,4 @@
 
 ## [Module3 Lab2 -- Loops and Lists](Lab2.md)
 
-## Homework 3 (5 minutes)
+## [Homework 3](https://canvas.uw.edu/courses/1105303/assignments/3464477)
