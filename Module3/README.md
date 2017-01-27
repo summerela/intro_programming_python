@@ -12,7 +12,7 @@
 
 ## [Lists](https://github.com/summerela/intro_programming_python/blob/master/Module3/4_Lists.ipynb)
 
-## For loops (15 mins)
+## [For loops](https://github.com/summerela/intro_programming_python/blob/master/Module3/5_Iteration_Loops.ipynb)
 
 ## [Module3 Lab2 -- Loops and Lists](Lab2.md)
 
