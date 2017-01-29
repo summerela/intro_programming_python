@@ -1,9 +1,9 @@
 # Module 4: 
 # Modules, Files and Advanced List/String Operations
 
-## File Handling
+## [File Handling](https://github.com/summerela/intro_programming_python/blob/master/Module4/1_Importing_Modules.ipynb)
 
-## Importing Modules: How not to reinvent the wheel
+## [Importing Modules: How not to reinvent the wheel](https://github.com/summerela/intro_programming_python/blob/master/Module4/2_File_Handling.ipynb)
 
 ## Parsing Text: Advanced String Operations
 
