@@ -1,4 +1,5 @@
-# Module 4: Files, Advanced List/String Operations and Modules
+# Module 4: 
+# Modules, Files and Advanced List/String Operations
 
 ## File Handling
 
