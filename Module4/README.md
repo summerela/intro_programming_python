@@ -11,5 +11,5 @@
 
 ## [Module 4 Lab 2](Lab2.md)
 
-## More on Functions
+## More Fun with Functions and Lists
 
