@@ -11,5 +11,7 @@
 
 ## [Module 4 Lab 2](Lab2.md)
 
-## More Fun with Functions and Lists
+## [More Fun with Functions and Lists](https://github.com/summerela/intro_programming_python/blob/master/Module4/4_more_functions.ipynb)
+
+## [Homework 4](https://canvas.uw.edu/courses/1105303/assignments/3464478)
 
