@@ -4,7 +4,7 @@
 
 ## [Sets](https://github.com/summerela/intro_programming_python/blob/master/Module5/1_Sets.ipynb)
 
-## Parsing a TSV File
+## [Parsing a TSV File](https://github.com/summerela/intro_programming_python/blob/master/Module5/2_parsingTSV.ipynb)
 
 ## [Module 5 Lab 1](Lab1.md)
 
