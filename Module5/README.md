@@ -8,7 +8,7 @@
 
 ## [Module 5 Lab 1](Lab1.md)
 
-## Tuples
+## [Tuples](https://github.com/summerela/intro_programming_python/blob/master/Module5/2_tuples.ipynb)
 
 ## Dictionaries
 
