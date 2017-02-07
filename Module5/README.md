@@ -2,7 +2,7 @@
 
 ## [Review HW 4](https://canvas.uw.edu/courses/1105303/assignments/3464478)
 
-## Sets
+## [Sets](https://github.com/summerela/intro_programming_python/blob/master/Module5/1_Sets.ipynb)
 
 ## Tuples
 
