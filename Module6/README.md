@@ -12,6 +12,6 @@
 
 ## Lab 2
 
-## Introduce Lightning Talks
+## [Introduce Lightning Talks](https://github.com/summerela/intro_programming_python/blob/master/Module6/4_lightning_talks.ipynb)
  
-## Introduce HW6
+## [Introduce HW6](https://canvas.uw.edu/courses/1105303/assignments/3464480)
