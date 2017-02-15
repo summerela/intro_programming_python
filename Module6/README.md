@@ -4,7 +4,7 @@
 
 ## [More on Functions](https://github.com/summerela/intro_programming_python/blob/master/Module6/1_more_functions.ipynb)
 
-## [More on user arguments](https://github.com/summerela/intro_programming_python/blob/master/Module6/2_more_user_args.ipynb)
+## [Builiding a Script With Functions](https://github.com/summerela/intro_programming_python/blob/master/Module6/2_building_functions.ipynb)
 
 ## Lab 1
 
