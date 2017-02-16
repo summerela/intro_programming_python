@@ -6,11 +6,11 @@
 
 ## [More on user arguments](https://github.com/summerela/intro_programming_python/blob/master/Module6/2_more_user_args.ipynb)
 
-## Lab 1
+## [Lab 1](Lab1.md)
 
 ## [Exception Handling](https://github.com/summerela/intro_programming_python/blob/master/Module6/3_exception_handling.ipynb)
 
-## Lab 2
+## [Lab 2](Lab2.md)
 
 ## [Introduce Lightning Talks](https://github.com/summerela/intro_programming_python/blob/master/Module6/4_lightning_talks.ipynb)
  
