@@ -2,16 +2,18 @@
 
 ## [Review HW5](https://canvas.uw.edu/courses/1105303/assignments/3464479)
 
-## [More on Functions](https://github.com/summerela/intro_programming_python/blob/master/Module6/1_more_functions.ipynb)
+## [More on Functions](1_more_functions.ipynb)
 
-## [More on user arguments](https://github.com/summerela/intro_programming_python/blob/master/Module6/2_more_user_args.ipynb)
+## [Builiding a Script With Functions](2_building_functions.ipynb)
 
 ## [Lab 1](Lab1.md)
 
-## [Exception Handling](https://github.com/summerela/intro_programming_python/blob/master/Module6/3_exception_handling.ipynb)
+## [Getting (more) User Args](3_more_user_args.ipynb)
+
+## [Exception Handling](4_exception_handling.ipynb)
 
 ## [Lab 2](Lab2.md)
 
-## [Introduce Lightning Talks](https://github.com/summerela/intro_programming_python/blob/master/Module6/4_lightning_talks.ipynb)
+## [Introduce Lightning Talks](5_lightning_talks.ipynb)
  
 ## [Introduce HW6](https://canvas.uw.edu/courses/1105303/assignments/3464480)
