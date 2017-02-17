@@ -6,13 +6,13 @@
 
 ## [Builiding a Script With Functions](2_building_functions.ipynb)
 
-## Lab 1
+## [Lab 1](Lab1.md)
 
 ## [Getting (more) User Args](3_more_user_args.ipynb)
 
 ## [Exception Handling](4_exception_handling.ipynb)
 
-## Lab 2
+## [Lab 2](Lab2.md)
 
 ## [Introduce Lightning Talks](5_lightning_talks.ipynb)
  
