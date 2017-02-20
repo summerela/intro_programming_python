@@ -79,7 +79,7 @@ Use whatever you want:
      f95e320..098ec88  master -> master
   ```
   
-# The *Push*
+# The *Pull*
 
 0. Now let's go edit some files in Github itself ( like in the browser ).
 
