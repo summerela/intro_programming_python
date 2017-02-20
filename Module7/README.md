@@ -1,6 +1,8 @@
-## Module 7
-
-
-[Lab1](lab1/Lab1.md)
-
-[Lab2](lab2/Lab2.md)
+# Module 7: Github and Virtual Environments
+## [Review Homework 6](iris_script.py)
+## Github
+## Lab 1
+## Virtual Environments
+## Lab 2
+## Discuss Final Projects
+## Introduce HW 7
