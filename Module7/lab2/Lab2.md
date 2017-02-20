@@ -4,7 +4,7 @@ Life is about the `push` and the `pull`
 
 ## Instructions:
 
-# The *Push*
+### The *Push*
 0. Let's add a new file to our local repository. Later we will push it up to the remote Github repository:
 
 0. First make sure you're in the repository directory (HINT: our `README.md` should be there):
@@ -79,7 +79,7 @@ Use whatever you want:
      f95e320..098ec88  master -> master
   ```
   
-# The *Pull*
+### The *Pull*
 
 0. Now let's go edit some files in Github itself ( like in the browser ).
 
