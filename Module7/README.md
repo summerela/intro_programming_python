@@ -5,5 +5,5 @@
 ## [Lab 1](https://github.com/summerela/intro_programming_python/blob/master/Module7/lab1/Lab1.md)
 ## [Virtual Environments](3_virtualenv.ipynb)
 ## [Lab 2](https://github.com/summerela/intro_programming_python/blob/master/Module7/lab2/Lab2.md)
-## Discuss Final Projects
-## Introduce HW 7
+## [Discuss Final Projects](4_final_projects.ipynb)
+## [Introduce HW 7](https://canvas.uw.edu/courses/1105303/assignments/3464481)
