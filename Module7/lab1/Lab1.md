@@ -20,7 +20,7 @@ Read about [how to do it here](https://git-scm.com/book/en/v2/Getting-Started-In
 0. Go to your email and click on the verification link like this page tells us to:
 ![3_verify_by_email](3_verify_by_email.png)
 
-0. Then go back to your `dashboard` -- link is at the top right or just go to `https://github.com`. Click on the plust ( + ) sign
+0. Then go back to your `dashboard` -- link is at the top right or just go to `https://github.com`. Click on the plus ( + ) sign
 at the top right and click "New Repository":
 ![4_from_dashboard_click_new_repository](4_from_dashboard_click_new_repository.png)
 
@@ -37,7 +37,7 @@ at the top right and click "New Repository":
 this command `git clone <link you copied>`:
 ![8_cli_clone](8_cli_clone.png)
 
-0. Then the magic happens and this are downloaded. Let's see what's here with some `ls` command stuff ( `dir` on Windows ):
+0. Then the magic happens! Files are downloaded from the interwebs. Let's see what's here with some `ls` command stuff ( `dir` on Windows ):
 ![9_see_stuff](9_see_stuff.png)
 
 0. Whoohoo! We've download files from the web. We can see the `README.md` from our repository. Highfive! Before we move on, go to `https://github.com/settings/admin` and create
