@@ -2,6 +2,9 @@
 
 import sys
 import csv
+import sys
+
+my_file = sys.argv[1]
 
 def read_in_csv(file_path):
     f = open(file_path)
@@ -35,8 +38,45 @@ def count_things(in_file, col_number):
     
     return my_dict
 
-unique_vals = get_column_unique("./iris.csv", 3)
-count_classes = count_things("./iris.csv", 3)
+# calc average of a column
+def average_col(in_file, col):
+    my_file = read_in_csv(in_file)
+    vals_to_avg = []
+    for row in my_file:
+       vals_to_avg.append(float(row[col]))
+    col_sum= sum(vals_to_avg)
+    length = len(vals_to_avg)
+    avg = col_sum/length
+    return avg
+
+# calc averge of specific class
+def calc_class_avg(infile, class_col, class_name):
+    my_file = read_in_csv(infile)
+    my_dict = {}
+    vals_to_avg = []
+    
+    # loop through dictionary to track name and count
+    for row in my_file:
+        if row[class_col] == class_name:
+           vals_to_avg.append(float(row[0]))
+    val_sum =sum(vals_to_avg)
+    val_length = int(len(vals_to_avg))
+    class_avg = val_sum/val_length
+    return class_avg
+        
+# have the user specify input file
+in_file = sys.argv[1]
+
+unique_vals = get_column_unique(my_file, 4)
+count_classes = count_things(my_file, 4)
+
+#calculate overall average sepal length
+sepal_avg = average_col(in_file,0)
+
+# calculate average sepal length by class name
+sepal_class_length = calc_class_avg(sys.argv[1], 4, "Iris-virginica")
 
 print(unique_vals)
 print(count_classes)
+print(sepal_avg)
+print(sepal_class_length)
