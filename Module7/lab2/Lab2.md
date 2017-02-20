@@ -9,7 +9,7 @@ Life is about the `push` and the `pull`
 
 0. First make sure you're in the repository directory (HINT: our `README.md` should be there):
 
-  ```python
+  ```
   $ ls -lah
   total 24
   drwxr-xr-x   5 whizmob  staff   170B Feb 19 19:05 ./
@@ -21,7 +21,7 @@ Life is about the `push` and the `pull`
   
 0. Then create a file called `homework7.py`. I'm gonna use a Linux command to do that ( also available on Mac ). 
 Use whatever you want:
-  ```python
+  ```
   $ touch homework7.py
   $ ls -lah
   ...
@@ -29,12 +29,12 @@ Use whatever you want:
   ```
   
 0. Now we're gonna add it to "Staging". Say What? Let's talk about it:
-  ```python
+  ```
   $ git add homework7.py
   ```
 
 0. Let's see what the "status" of our local repository is. Let's talk about what this stuff means:
-  ```python
+  ```
   $ git add homework7.py 
   $ git status
   # On branch master
@@ -46,14 +46,14 @@ Use whatever you want:
   ```
   
 0. Let's "commit" our changes in staging so they are ready to "push":
-  ```python
+  ```
    $ git commit -m "adding homework 7"
   [master 098ec88] adding homework 7
    0 files changed
    create mode 100644 homework7.py
   ```
 0. Our status has probably changed. Let's talk about it:
-  ```python3
+  ```
   $ git status
   # On branch master
   # Your branch is ahead of 'origin/master' by 1 commit.
@@ -66,7 +66,7 @@ Use whatever you want:
   ```
   
 0. Finally, we are ready to push our changes to the remote respository:
-  ```python
+  ```
   $ git push
   Username for 'https://github.com': whizmob
   Password for 'https://whizmob@github.com': 
