@@ -74,12 +74,16 @@ Life is about the `push` and the `pull`
 ### The *Pull*
 
 0. Now let's go see this file on Github! Go to you repository dashboard and look for `hw7.py` and click on it. Mine is located here `https://github.com/whizmob/Module7/blob/master/hw7.py`
+[1_file](1_file.png)
 
 0. Notice that we can edit this file in the browser. Click the edit pencil
+[2_file](2_edit.png)
 
-0. Let's make a simple change such as adding a comment above `def print_menu` function.
+0. Let's make a simple change such as adding a comment above `def print_menu` function
+[3_comment](3_comment.png)
 
 0. Scroll to the bottom. Add a commit message about this file edit and click "Commit changes" button
+[4_commit](4_commit.png)
 
 0. Assuming that went well, then let's go back to our terminal window. It's always a good idea to recheck your
 git status to make sure everything is still gravy:
