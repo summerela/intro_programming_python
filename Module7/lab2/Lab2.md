@@ -90,19 +90,19 @@ git status to make sure everything is still gravy:
   ```
 
 0. Finally, let's "pull" our changes from the remote repo down to our local repo. 
-```
-$ git pull
-remote: Counting objects: 3, done.
-remote: Compressing objects: 100% (3/3), done.
-remote: Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
-Unpacking objects: 100% (3/3), done.
-From https://github.com/whizmob/PythonFoundationsWhizmob
-   6d999f1..f84d8d4  master     -> origin/master
-Updating 6d999f1..f84d8d4
-Fast-forward
- hw7.py |    3 +++
- 1 file changed, 3 insertions(+)
- ```
+  ```
+  $ git pull
+  remote: Counting objects: 3, done.
+  remote: Compressing objects: 100% (3/3), done.
+  remote: Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+  Unpacking objects: 100% (3/3), done.
+  From https://github.com/whizmob/Module7
+     6d999f1..f84d8d4  master     -> origin/master
+  Updating 6d999f1..f84d8d4
+  Fast-forward
+   hw7.py |    3 +++
+   1 file changed, 3 insertions(+)
+   ```
 
   
   
