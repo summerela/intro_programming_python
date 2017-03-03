@@ -1,4 +1,9 @@
 # Module 8
+Reminder: 
+- Class is completely online next week. 
+- Wednesday office hours are online next week.
+- Office hours for Sunday, March 12th moved to Monday, March 13th at 8pm  
+
 ## [Review Homework 7](https://github.com/summerela/intro_programming_python/blob/master/Module8/hw7_answer.py)
 ## [Install Jupyter Notebook](https://github.com/summerela/intro_programming_python/blob/master/Module8/1_install_jupyter.ipynb)
 ## [Working with Jupyter Notebook: Interactive Python Notebooks](https://github.com/summerela/intro_programming_python/blob/master/Module8/2_using_jupyter.ipynb)
