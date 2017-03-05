@@ -11,6 +11,4 @@ inside classes.
 
 0. Look for `TODO2` in the code. Can you finish writing this function without accessing any variables outside of the `IrisStats` class?
 
-0. `TODO3` is for the wonks who finish the first two. The idea is that we don't want to read the csv for every statistical function we write
-because it's repetative. There should be multiple ways to write the code to read the file once and cache the iris data that comes back.
-This can be done in the `IrisReader` or `IrisStats` class. So the options are open
+0. The final TODO is a little harder to explain. The idea is that we don't want to read the csv for every statistical function we write because it's repetative. There should be multiple ways to refactor the code to read the file once and cache the `self.iris_data` read from the csv. This can be done in the `IrisReader` or `IrisStats` class. So you have options.
