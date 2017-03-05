@@ -5,7 +5,7 @@ Think about them as containers for variables that the internal class functions s
 
 ## Instructions:
 
-0. Let's walk through `lab1.py` together and play with the classes to talk about the following things Summer was talking about in her lecture
+0. Let's walk through `lab1.py` together and play with these two classes. We'll highlight some of things below that Summer was talking about in her lecture:
 
 0. How to instantiate a class
 
