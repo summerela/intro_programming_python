@@ -13,15 +13,10 @@ class IrisReader:
         self.file_path = file_path
 
     def open(self):
-        # TODO3: instead of reading
-        # the file in everytime
-        # is there a way to read it in once
-        # and if it was already read, return
-        # the existing file data?
         try:
             f = open(self.file_path)
-            my_file = csv.reader(f)
-            return my_file
+            my_file_data = csv.reader(f)
+            return my_file_data
         except IOError:
             print("File not found\n")
             return None
@@ -32,15 +27,19 @@ class IrisStats:
     def __init__(self, file_path):
         self.sepal_length_column = 0
         self.petal_length_column = 2
-        self.iris_data = IrisReader(file_path).open()
+        self.iris_data = None # this is set in each stats function
 
     def get_avg_petal_length(self):
-        # TODO1: write this function
-        pass
+        # TODO1: finish this function
+        self.iris_data = IrisReader(file_path).open()
+        if self.iris_data is not None:
+            pass
 
     def get_avg_sepal_length_per_class(self):
-        # TODO2: write this function
-        pass
+        # TODO2: finish this function
+        self.iris_data = IrisReader(file_path).open()
+        if self.iris_data is not None:
+            pass
 
 import sys
 iris_stats = IrisStats(sys.argv[1])
