@@ -14,3 +14,5 @@ Think about them as containers for variables that the internal class functions s
 0. `self`. What is it. What does it refer to
 
 0. How to call functions on an instance.
+
+0. Special functions in a class that you can "override" or use: `__str__`, `__repr__`, `__dict__`
