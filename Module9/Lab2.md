@@ -1,6 +1,6 @@
 # Module 9 Lab 2
 
-We lover iris flowers in this class. Let's return to the [iris.csv](https://github.com/summerela/intro_programming_python/blob/master/Module6/iris.csv) dataset in this lab and try to write our simple statistics
+We love iris flowers in this class. Let's return to the [iris.csv](https://github.com/summerela/intro_programming_python/blob/master/Module6/iris.csv) dataset in this lab and try to write our simple statistics
 inside classes.
 
 ## Instructions:
