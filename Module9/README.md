@@ -8,6 +8,6 @@
 
 ## [Lab2](Lab2.md)
 
-## [Classes Example](3_class_example.ipynb)
+## [Pandas/Graphics in a script](pandas_script.py)
 
-## [Final Project and Lightning Talk Reminder](https://canvas.uw.edu/courses/1105303/assignments/3464484)
+## [Final Project Guidlines](https://canvas.uw.edu/courses/1105303/assignments/3464484)
