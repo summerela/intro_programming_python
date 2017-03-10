@@ -27,17 +27,18 @@ class IrisStats:
     def __init__(self, file_path):
         self.sepal_length_column = 0
         self.petal_length_column = 2
+        self.file_path = file_path
         self.iris_data = None # this is set in each stats function
 
     def get_avg_petal_length(self):
         # TODO1: finish this function
-        self.iris_data = IrisReader(file_path).open()
+        self.iris_data = IrisReader(self.file_path).open()
         if self.iris_data is not None:
             pass
 
     def get_avg_sepal_length_per_class(self):
         # TODO2: finish this function
-        self.iris_data = IrisReader(file_path).open()
+        self.iris_data = IrisReader(self.file_path).open()
         if self.iris_data is not None:
             pass
 
