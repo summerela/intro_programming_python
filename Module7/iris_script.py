@@ -52,7 +52,6 @@ def average_col(in_file, col):
 # calc averge of specific class
 def calc_class_avg(infile, class_col, class_name):
     my_file = read_in_csv(infile)
-    my_dict = {}
     vals_to_avg = []
     
     # loop through dictionary to track name and count
@@ -63,7 +62,31 @@ def calc_class_avg(infile, class_col, class_name):
     val_length = int(len(vals_to_avg))
     class_avg = val_sum/val_length
     return class_avg
-        
+
+# get petal length for a particular class
+# feed it file
+# petal length column  number
+# class column number
+
+def calc_class_avg(infile, avg_col, class_col, class_name):
+
+    petal_length_list = []
+
+    # read in the file
+    my_file = read_in_csv(infile)
+
+    # if class col is equal to the class name
+    for row in file:
+        if row[class_col] == class_name:
+            petal_length_list.append(row[avg_col])
+
+    # get the petal length
+
+    # sum petal
+
+    # divide that by how many observations
+
+
 # have the user specify input file
 in_file = sys.argv[1]
 
@@ -73,10 +96,11 @@ count_classes = count_things(my_file, 4)
 #calculate overall average sepal length
 sepal_avg = average_col(in_file,0)
 
-# calculate average sepal length by class name
-sepal_class_length = calc_class_avg(sys.argv[1], 4, "Iris-virginica")
 
-print(unique_vals)
+# calculate average sepal length by class name
+sepal_class_length = calc_class_avg(sys.argv[1], 4, "iris-setosa")
+
+print("There are {} unique classes in this file.".format(unique_vals))
 print(count_classes)
 print(sepal_avg)
 print(sepal_class_length)

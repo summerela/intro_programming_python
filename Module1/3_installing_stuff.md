@@ -6,7 +6,7 @@ Try to follow along, but if you get stuck, don't worry, we'll have time during t
 
 ## Setting up a Unix Environment
 ### Terminal in Mac
-Because OSx is based off of unix, accessing the command line from a mac is super easy; just hit command + spacebar and search for "terminal". 
+OSx is based off of unix, so accessing the command line from a mac is super easy; just hit command + spacebar and search for "terminal". 
 
 ### GitBash in Windows
 Since Windows is based off of DOS instead of UNIX, we'll use Git Bash to keep things from getting too complicated.
