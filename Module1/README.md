@@ -13,8 +13,7 @@
 
 ## [Programming Basics](https://github.com/summerela/intro_programming_python/blob/master/Module1/6_Programming_Basics.ipynb)
 
-## [Module1 Lab2: Creating and running a python script](https://github.com/summerela/intro_programming_python/blob/master/Module1/madlib.zip)
-Browse to the github webpage above, and then click on "Download" to download the lab. 
+## [Module1 Lab2: Creating and running a python script](https://github.com/summerela/intro_programming_python/blob/master/Module1/8_module1_lab2.ipynb)
 
 ## [How to Troubleshoot](https://github.com/summerela/intro_programming_python/blob/master/Module1/7_Troubleshooting.ipynb)
 
